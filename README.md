@@ -17,5 +17,5 @@ Got permission denied while trying to connect to the Docker daemon socket at uni
 
 ### If you are installing on the VM....
 
-When you install it on a Virtual Machine, a restart would be required in order to propagate `docker` usergroup assigment to you user.
+If you plan to install on a Virtual Machine, after installation a VM restart would be required in order to propagate `docker` usergroup assigment to you user.
 
