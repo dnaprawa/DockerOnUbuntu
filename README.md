@@ -14,3 +14,8 @@ $ sudo sh docker.sh
 ```sh
 Got permission denied while trying to connect to the Docker daemon socket at unix:///var/run/docker.soc
 ```
+
+### If you are installing on the VM....
+
+When you install it on a Virtual Machine, a restart would be required in order to propagate `docker` usergroup assigment to you user.
+
